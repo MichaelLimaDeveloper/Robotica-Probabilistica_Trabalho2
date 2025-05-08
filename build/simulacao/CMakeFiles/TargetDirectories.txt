@@ -1,0 +1,9 @@
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/uninstall.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/simulacao_uninstall.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/test.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/edit_cache.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/rebuild_cache.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/list_install_components.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/install.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/install/local.dir
+/home/kifelix/ambiente_ws/build/simulacao/CMakeFiles/install/strip.dir

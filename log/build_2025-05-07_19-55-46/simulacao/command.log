@@ -1,0 +1,1 @@
+Invoking command in '/home/kifelix/ambiente_ws/build/simulacao': /usr/bin/cmake /home/kifelix/ambiente_ws/src/simulacao -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kifelix/ambiente_ws/install/simulacao

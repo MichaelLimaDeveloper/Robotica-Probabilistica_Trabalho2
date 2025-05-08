@@ -1,0 +1,6 @@
+WARNING: Package name "Fla" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[31mCMake Error at cmake_install.cmake:50 (file):
+  file INSTALL cannot find "/home/kifelix/ambiente/src/Fla/Model": No such
+  file or directory.
+
+[0m

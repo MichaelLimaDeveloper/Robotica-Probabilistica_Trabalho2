@@ -1,0 +1,23 @@
+[0.015s] Invoking command in '/home/kifelix/ambiente_ws/build/avoid_wall': /usr/bin/cmake /home/kifelix/ambiente_ws/src/primeiro_robo/src -DCMAKE_INSTALL_PREFIX=/home/kifelix/ambiente_ws/install/avoid_wall
+[0.333s] -- The C compiler identification is GNU 11.4.0
+[0.333s] -- The CXX compiler identification is GNU 11.4.0
+[0.333s] -- Detecting C compiler ABI info
+[0.333s] -- Detecting C compiler ABI info - done
+[0.333s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.333s] -- Detecting C compile features
+[0.334s] -- Detecting C compile features - done
+[0.334s] -- Detecting CXX compiler ABI info
+[0.334s] -- Detecting CXX compiler ABI info - done
+[0.334s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.334s] -- Detecting CXX compile features
+[0.334s] -- Detecting CXX compile features - done
+[0.334s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[0.414s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[0.455s] -- Configuring done
+[0.458s] -- Generating done
+[0.459s] -- Build files have been written to: /home/kifelix/ambiente_ws/build/avoid_wall
+[0.463s] Invoked command in '/home/kifelix/ambiente_ws/build/avoid_wall' returned '0': /usr/bin/cmake /home/kifelix/ambiente_ws/src/primeiro_robo/src -DCMAKE_INSTALL_PREFIX=/home/kifelix/ambiente_ws/install/avoid_wall
+[0.464s] Invoking command in '/home/kifelix/ambiente_ws/build/avoid_wall': /usr/bin/cmake --build /home/kifelix/ambiente_ws/build/avoid_wall -- -j20 -l20
+[0.492s] [ 50%] [32mBuilding CXX object CMakeFiles/lidar_node.dir/lidar_node.cc.o[0m
+[3.394s] [100%] [32m[1mLinking CXX executable lidar_node[0m
+[3.505s] [100%] Built target lidar_node

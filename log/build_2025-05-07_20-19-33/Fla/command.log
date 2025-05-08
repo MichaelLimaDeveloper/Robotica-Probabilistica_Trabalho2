@@ -1,0 +1,4 @@
+Invoking command in '/home/kifelix/ambiente_ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kifelix/ambiente_ws/build/Fla -- -j20 -l20
+Invoked command in '/home/kifelix/ambiente_ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kifelix/ambiente_ws/build/Fla -- -j20 -l20
+Invoking command in '/home/kifelix/ambiente_ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kifelix/ambiente_ws/build/Fla
+Invoked command in '/home/kifelix/ambiente_ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kifelix/ambiente_ws/build/Fla

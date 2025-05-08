@@ -1,0 +1,3 @@
+Invoking command in '/home/kifelix/ambiente_ws/build/avoid_wall': /usr/bin/cmake /home/kifelix/ambiente_ws/src/primeiro_robo/src -DCMAKE_INSTALL_PREFIX=/home/kifelix/ambiente_ws/install/avoid_wall
+Invoked command in '/home/kifelix/ambiente_ws/build/avoid_wall' returned '0': /usr/bin/cmake /home/kifelix/ambiente_ws/src/primeiro_robo/src -DCMAKE_INSTALL_PREFIX=/home/kifelix/ambiente_ws/install/avoid_wall
+Invoking command in '/home/kifelix/ambiente_ws/build/avoid_wall': /usr/bin/cmake --build /home/kifelix/ambiente_ws/build/avoid_wall -- -j20 -l20

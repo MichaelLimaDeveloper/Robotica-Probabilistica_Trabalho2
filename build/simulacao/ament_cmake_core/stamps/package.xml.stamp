@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>simulacao</name>
+  <version>0.0.1</version>
+  <description>Pacote para integração entre Gazebo Fortress e ROS 2 Humble</description>
+  <maintainer email="seu_email@exemplo.com">Seu Nome</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>gazebo_ros</depend>
+  <depend>ros_gz_bridge</depend>
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+
+</package>

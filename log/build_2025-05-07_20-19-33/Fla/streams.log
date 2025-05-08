@@ -1,0 +1,54 @@
+[0.010s] Invoking command in '/home/kifelix/ambiente_ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kifelix/ambiente_ws/build/Fla -- -j20 -l20
+[0.024s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.106s] -- Found gazebo_ros_pkgs: 3.9.0 (/opt/ros/humble/share/gazebo_ros_pkgs/cmake)
+[0.106s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.123s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.124s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.128s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.133s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.142s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.163s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.164s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.227s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.257s] -- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.264s] -- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.275s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.313s] WARNING: Package name "Fla" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.326s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.326s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/kifelix/ambiente_ws/src/Fla/include>
+[0.326s] -- Configured cppcheck exclude dirs and/or files: 
+[0.326s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.326s] -- Added test 'lint_cmake' to check CMake code style
+[0.326s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.327s] -- Added test 'uncrustify' to check C / C++ code style
+[0.327s] -- Configured uncrustify additional arguments: 
+[0.327s] -- Added test 'xmllint' to check XML markup files
+[0.327s] -- Configuring done
+[0.330s] -- Generating done
+[0.332s] -- Build files have been written to: /home/kifelix/ambiente_ws/build/Fla
+[0.350s] [35m[1mConsolidate compiler generated dependencies of target cefet[0m
+[0.356s] [100%] Built target cefet
+[0.362s] Invoked command in '/home/kifelix/ambiente_ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kifelix/ambiente_ws/build/Fla -- -j20 -l20
+[0.367s] Invoking command in '/home/kifelix/ambiente_ws/build/Fla': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kifelix/ambiente_ws/build/Fla
+[0.377s] -- Install configuration: ""
+[0.377s] -- Up-to-date: /home/kifelix/ambiente_ws/install/Fla/share/Fla/launch
+[0.377s] -- Up-to-date: /home/kifelix/ambiente_ws/install/Fla/share/Fla/launch/launch.py
+[0.377s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/Model
+[0.377s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/Model/building_robot.sdf
+[0.377s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/lib/Fla/cefet
+[0.377s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/ament_index/resource_index/package_run_dependencies/Fla
+[0.377s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/ament_index/resource_index/parent_prefix_path/Fla
+[0.377s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/environment/ament_prefix_path.sh
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/environment/ament_prefix_path.dsv
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/environment/path.sh
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/environment/path.dsv
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/local_setup.bash
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/local_setup.sh
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/local_setup.zsh
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/local_setup.dsv
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/package.dsv
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/ament_index/resource_index/packages/Fla
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/cmake/FlaConfig.cmake
+[0.378s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/cmake/FlaConfig-version.cmake
+[0.379s] -- Installing: /home/kifelix/ambiente_ws/install/Fla/share/Fla/package.xml
+[0.380s] Invoked command in '/home/kifelix/ambiente_ws/build/Fla' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kifelix/ambiente_ws/build/Fla

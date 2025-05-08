@@ -1,0 +1,10 @@
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/uninstall.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/Fla_uninstall.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/cefet.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/test.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/edit_cache.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/rebuild_cache.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/list_install_components.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/install.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/install/local.dir
+/home/kifelix/ambiente_ws/build/Fla/CMakeFiles/install/strip.dir

@@ -1,0 +1,3 @@
+/home/kifelix/ambiente_ws/build/avoid_wall/CMakeFiles/lidar_node.dir
+/home/kifelix/ambiente_ws/build/avoid_wall/CMakeFiles/edit_cache.dir
+/home/kifelix/ambiente_ws/build/avoid_wall/CMakeFiles/rebuild_cache.dir

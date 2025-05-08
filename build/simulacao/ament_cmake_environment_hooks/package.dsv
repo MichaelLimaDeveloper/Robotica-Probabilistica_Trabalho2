@@ -1,0 +1,4 @@
+source;share/simulacao/local_setup.bash
+source;share/simulacao/local_setup.dsv
+source;share/simulacao/local_setup.sh
+source;share/simulacao/local_setup.zsh
